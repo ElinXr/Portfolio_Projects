@@ -7,7 +7,7 @@
 
 		<script>
 			alert('Подкрепете ни като изключите блокиращия софтуер!');
-			window.location = 'file:///C:/Users/Elin/Desktop/R_AdBlock.html' ;
+			window.location = 'file:///C:/Users/R_AdBlock.html' ;
 			window.open('_blank');
 		</script>
 	</head>
